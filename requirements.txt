@@ -1,0 +1,7 @@
+pinecone-client==3.0.1
+google-generativeai==0.3.2
+pytube==15.0.0
+youtube-transcript-api==0.6.2
+python-dotenv==1.0.1
+tqdm==4.66.2
+rich==13.7.0 
